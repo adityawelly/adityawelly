@@ -137,8 +137,8 @@ a:hover {
 }
 
 .section-padding {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 b,
@@ -906,8 +906,8 @@ strong {
 
 .copyright-text {
   border-right: 1px solid var(--border-color);
-  padding-right: 25px;
-  margin-right: 20px;
+  /* padding-right: 25px; */
+  /* margin-right: 20px; */
 }
 
 .copyright-text-wrap a {
