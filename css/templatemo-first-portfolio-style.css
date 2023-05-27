@@ -1081,12 +1081,12 @@ strong {
   }
 
   .hero {
-    padding-top: 200px;
-    padding-bottom: 400px;
+    padding-top: 0px;
+    padding-bottom: 0px;
   }
 
   .hero-text {
-    top: 0;
+    top: 170px;
     margin-bottom: 120px;
   }
 
